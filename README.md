@@ -1,0 +1,4 @@
+Gaddag
+======
+
+Scrabble playing software
