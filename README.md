@@ -1,7 +1,7 @@
 Gaddag
 ======
 
-Scrabble playing software
+Scrabble playing software (Avans hogeschool school project)
 
 
 Not working as of yet:
